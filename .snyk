@@ -1,0 +1,14 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:minimatch:20160620':
+    - dreamjs > mocha > glob > minimatch:
+        patched: '2016-07-10T05:26:32.541Z'
+    - sequelize-cli > gulp > vinyl-fs > glob-stream > minimatch:
+        patched: '2016-07-10T05:26:32.541Z'
+    - sequelize-cli > gulp > vinyl-fs > glob-stream > glob > minimatch:
+        patched: '2016-07-10T05:26:32.541Z'
+    - sequelize-cli > gulp > vinyl-fs > glob-watcher > gaze > globule > minimatch:
+        patched: '2016-07-10T05:26:32.541Z'
+    - sequelize-cli > gulp > vinyl-fs > glob-watcher > gaze > globule > glob > minimatch:
+        patched: '2016-07-10T05:26:32.541Z'
