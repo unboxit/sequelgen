@@ -16,17 +16,17 @@
   "dependencies": {
     "chance": "^1.0.13",
     "faker": "^4.1.0",
-    "jasmine-node": "^1.14.5",
-    "lodash": "^4.17.4",
-    "randexp": "^0.4.6",
-    "sequelize": "^4.32.2",
-    "sequelize-cli": "^3.2.0",
+    "lodash": "^4.17.5",
+    "randexp": "^0.4.9",
+    "sequelize": "^4.37.4",
+    "sequelize-cli": "^4.0.0",
     "sequelize-fixtures": "0.7.0",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {
+    "jasmine-node": "^1.14.5",
     "pre-commit": "^1.2.2",
-    "standard": "^10.0.3"
+    "standard": "^11.0.1"
   },
   "pre-commit": [
     "lint"
