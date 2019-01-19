@@ -17,7 +17,7 @@
     "chance": "^1.0.13",
     "faker": "^4.1.0",
     "lodash": "^4.17.5",
-    "randexp": "^0.4.9",
+    "randexp": "^0.5.0",
     "sequelize": "^4.37.4",
     "sequelize-cli": "^4.0.0",
     "sequelize-fixtures": "0.7.0",
