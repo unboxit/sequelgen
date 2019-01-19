@@ -14,17 +14,17 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "chance": "^1.0.13",
+    "chance": "^1.0.18",
     "faker": "^4.1.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.11",
     "randexp": "^0.4.9",
-    "sequelize": "^4.37.4",
-    "sequelize-cli": "^4.0.0",
-    "sequelize-fixtures": "0.7.0",
-    "sqlite3": "^4.0.0"
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^4.1.1",
+    "sequelize-fixtures": "^0.9.0",
+    "sqlite3": "^4.0.6"
   },
   "devDependencies": {
-    "jasmine-node": "^1.14.5",
+    "jasmine-node": "^2.0.1",
     "pre-commit": "^1.2.2",
     "standard": "^11.0.1"
   },
